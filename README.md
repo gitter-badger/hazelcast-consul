@@ -1,4 +1,6 @@
 # hazelcast-consul
+
+[![Join the chat at https://gitter.im/decoomanj/hazelcast-consul](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/decoomanj/hazelcast-consul?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A hazelcast resolver for Consul
 
 (more info to come)
